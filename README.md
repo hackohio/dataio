@@ -8,8 +8,8 @@ Welcome to the official website for High School I/O, an annual high school hacka
 **Folder Structure**:  
 20**: Contains the HTML pages and asset folders for each individual event.  
 assets: Contains commonly used assets (such as minified js) that may be reused across events.  
-index.html: The redirect page for the hack.osu.edu/hs page to the most recent event page.
+index.html: The redirect page for the hack.osu.edu/dataio page to the most recent event page.
 
 **Deployment**:  
 The website is deployed using a simple GitHub actions workflow using AWS's S3 CLI.
-- The script is setup to deploy the repo into the /hs directory
+- The script is setup to deploy the repo into the /dataio directory
