@@ -1,4 +1,4 @@
-# High School I/O Website
+# Data I/O Website
 ![Deployment Status](https://github.com/hackohio/highschoolio/workflows/HS-site%20S3%20Deployment/badge.svg)  
 Welcome to the official website for High School I/O, an annual high school hackathon hosted by OHI/O.
 
